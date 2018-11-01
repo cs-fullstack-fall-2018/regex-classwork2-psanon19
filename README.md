@@ -17,6 +17,9 @@ Senior Colleges	Hunter College	http://hunter.cuny.edu	695 Park Avenue	New York	N
 
 ```
 
+/\d{5}-\d{4}|\d{5}/gmi
+
+
 ### 2. BONUS Binary Challenge
 In honor of the binary number work you've been doing with Kenn, see if you can knock this one out:
 
